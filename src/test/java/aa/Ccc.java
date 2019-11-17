@@ -6,6 +6,9 @@ public class Ccc {
 		System.out.println("ccc");
 		System.out.println("c");
 		System.out.println("cc");
+		
+		System.out.println("akkk");
+		
 	}
 
 }
